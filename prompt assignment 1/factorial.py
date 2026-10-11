@@ -27,10 +27,14 @@ def main():
 
     # Factorial is not defined for negative numbers
     if n < 0:
-        print("Factorial negative number ka nahi hota.")
+        print("Factorial is not defined for negative numbers.")
         return
 
     # Print the result from all three methods to compare them
-    print(f"Loop      : {n}! = {factorial_loop(n)}")
-    print(f"Recursion : {n}! = {factorial_recursive(n)}")
+    print(f"Loop           : {n}! = {factorial_loop(n)}")
+    print(f"Recursion      : {n}! = {factorial_recursive(n)}")
     print(f"math.factorial : {n}! = {math.factorial(n)}")
+
+
+if __name__ == "__main__":
+    main()
