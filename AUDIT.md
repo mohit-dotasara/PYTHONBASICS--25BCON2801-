@@ -16,10 +16,15 @@
 
 | Commit | My message | AI message | Which is clearer, why? |
 |---|---|---|---|
-| 1 | feat: add fibonacci program | | |
-| 2 | feat: add student dict program | | |
-| 3 | docs: add comments and call main() | | |
+| 1 | feat: add fibonacci program | feat: add fibonacci script for first 10 numbers | AI's is clearer because it says what the script prints. Mine is shorter but vague. |
+| 2 | feat: add student dict program | feat: add student dictionary program | Both are similar. AI spells out "dictionary", which is clearer than my "dict". |
+| 3 | docs: add comments and call main() | fix: add comments and call main() in script | Mine is clearer on the change itself, but "docs" hides that main() call is a real fix. Two separate commits would have been better. |
 
 ## Peer review notes
 
-(partner ka review yahan likh)
+Partner repo: (link)
+
+1. Understood in 15 seconds? (yes/no, what I understood):
+2. Two claims verified (claim + what I checked):
+3. Commit messages (good or weak, example):
+4. One specific fix suggested:
