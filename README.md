@@ -20,7 +20,53 @@ A collection of beginner-friendly Python programs covering core concepts: data s
 ## How to Run
 
 ```bash
-git clone <https://github.com/mohit-dotasara/PYTHONBASICS--25BCON2801-/new/main?filename=README.md>
+
+---
+
+## Session 5 Programs
+
+| File | What it does |
+|---|---|
+| `prompt assignment 1/factorial.py` | Asks for a non-negative integer and prints its factorial using a loop, recursion and `math.factorial`. Rejects invalid and negative input. |
+| `fibonacci.py` | Prints the first 10 Fibonacci numbers. |
+| `student_dict.py` | Stores one student's data in a dictionary and prints name, roll number and marks. |
+
+### Requirements
+- Python 3.6 or higher (f-strings are used)
+- No external packages, standard library only
+
+### How to run
+```bash
+python "prompt assignment 1/factorial.py"
+python fibonacci.py
+python student_dict.py
+```
+On some systems use `python3` instead of `python`.
+
+### Example output
+
+`factorial.py` (input: 5)
+```
+Enter a non-negative number: 5
+Loop           : 5! = 120
+Recursion      : 5! = 120
+math.factorial : 5! = 120
+```
+
+`fibonacci.py`
+```
+0 1 1 2 3 5 8 13 21 34
+```
+
+`student_dict.py`
+```
+Name: Mohit
+Roll: 101
+Marks: 87.5
+```
+
+### Author
+Mohit Dotasarait clone <https://github.com/mohit-dotasara/PYTHONBASICS--25BCON2801-/new/main?filename=README.md>
 cd < PYTHONBASICS--25BCON2801->
 
 python list.py
