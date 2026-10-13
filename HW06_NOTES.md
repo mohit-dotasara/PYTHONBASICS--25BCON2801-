@@ -1,0 +1,2 @@
+factorial_refactored.py: output matches factorial_output.txt exactly (fc: no differences encountered).
+fibonacci_refactored.py: output matches fibonacci_output.txt exactly (fc: no differences encountered).
