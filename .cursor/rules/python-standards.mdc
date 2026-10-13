@@ -10,3 +10,5 @@ alwaysApply: true
 - Do not hard-code a number that is used more than once. Name it.
 - Do not add imports that are not used.
 - Do not add features that were not requested.
+- Above every function, add a one-line comment starting with "# WHY:" that explains why the function exists, not what it does.
+- Never name a variable data, info, temp, result or value. Pick a name that says exactly what it holds.
