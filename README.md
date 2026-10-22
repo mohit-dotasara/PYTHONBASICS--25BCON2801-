@@ -1,6 +1,6 @@
 # Python Basics
 
-A collection of beginner-friendly Python programs covering core concepts: data structures, recursion, loops, and generators. Each file is standalone and can be run directly. This is Below
+A collection of beginner-friendly Python programs covering core concepts: data structures, recursion, loops, and generators. Each file is standalone and can be run directly.
 
 ## Files
 
